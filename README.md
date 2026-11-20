@@ -6,8 +6,6 @@ A working prototype that lets a small business owner discover, buy, verify (KYC)
 
 > Hackathon prototype on synthetic data. It is not a live telecom service. Payments are simulated, and KYC checks run against mock registries, not government systems.
 
-![Phone screens](docs/screenshots/overview-phone.jpg)
-![Laptop screens](docs/screenshots/overview-laptop.jpg)
 
 More screenshots of every page, in both sizes, are in `docs/screenshots/`.
 
